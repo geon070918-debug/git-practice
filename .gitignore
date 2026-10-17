@@ -7,3 +7,13 @@
 
 # IDE settings
 .vscode/
+
+# Visual Studio
+.vs/
+
+# Executable files
+*.exe
+*.out
+
+# Temporary files
+*.tmp
