@@ -18,3 +18,7 @@
 
 \- git pull: Fetch and integrate changes
 
+I learned how to use Git commits.
+
+Git helps me track changes in my code.
+
